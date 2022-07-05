@@ -2,13 +2,13 @@
 
 /**
  * print_last_digit - Check main
- *
+ * @r: An integer input
  * Return: last digit of r
  */
 
 int print_last_digit(int r)
 {
-	int r;
+	int n;
 
 	if (r < 0)
 		n = -1 * (r % 10);
