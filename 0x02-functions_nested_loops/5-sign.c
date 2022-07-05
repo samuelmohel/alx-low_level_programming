@@ -2,7 +2,7 @@
 
 /**
  * print_sign - Check main
- *
+ * @n: An input number
  * Return: 1 if number is positive, o if number is 0, -1 if number is negative
  */
 
@@ -15,7 +15,7 @@ int print_sign(int n)
 		value = 1;
 		_putchar('+');
 	}
-	if else (n == 0)
+	else if (n == 0)
 	{
 		value = 0;
 		_putchar('0');

@@ -2,7 +2,7 @@
 
 /**
  * _abs - Check main
- *
+ * @r: An integre input
  * Return: Absolute value of number r
  */
 
