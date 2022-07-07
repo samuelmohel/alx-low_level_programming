@@ -8,8 +8,8 @@
 
 int main(void)
 {
-	int i
-	long int fibonacci[50], sum = 2
+	int i;
+	long int fibonacci[50], sum = 2;
 
 
 	fibonacci[0] = 1;
