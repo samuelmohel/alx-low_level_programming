@@ -1,10 +1,9 @@
-#include "holberton.h"
-#include <stdio.h>
+#include "main.h"
 
 /**
- * _isupper - Check if paramter c represents an uppercase letter.
- * @c: Int representing a character
- * Return: Always 0.
+ * _isupper -> this is a function to check upper case alphas*
+ * @c: an integer paramer
+ * Return: something but success
  */
 int _isupper(int c)
 {
