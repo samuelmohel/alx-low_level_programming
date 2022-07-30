@@ -7,7 +7,8 @@
 #include <stdlib.h>
 
 /**
- * string_nconcat - concentrates two strings using at most an inputted number of bytes.
+ * string_nconcat - concentrates two strings using 
+ * at most an inputed number of bytes.
  * @s1: The first string
  * @s2: The second string
  * @n: The maximum number of bytes of s2 to concentrate to s1.
