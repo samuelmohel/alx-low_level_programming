@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdlib.h>
 
 /**
  * delete_nodient_at_index - deletes the node at index of a listint_t list.
