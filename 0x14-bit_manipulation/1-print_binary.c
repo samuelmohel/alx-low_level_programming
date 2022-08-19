@@ -1,4 +1,4 @@
-#includde "main.h"
+#include "main.h"
 
 /**
  * _pow - calculates (base ^ power)
